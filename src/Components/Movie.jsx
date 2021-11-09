@@ -17,13 +17,13 @@ const Movie = (prop) => {
               type="text"
               name="textvalue"
               className="w-auto mb-2 form-control"
-              placeholder="Introducir su pelicula"
+              placeholder="search movie"
             />
           </div>
           <div className="d-flex justify-content-center">
             <input
               type="submit"
-              value="Dale click"
+              value="Send Requests"
               className="btn btn-primary"
             />
           </div>
