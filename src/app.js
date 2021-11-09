@@ -13,7 +13,7 @@ const App = () => {
     const Valor = e.target[0].value;
     axios({
       method: "get",
-      url: "http://www.omdbapi.com",
+      url: "https://www.omdbapi.com",
       params: {
         s: Valor,
         apikey: REACT_APP_API_KEY
