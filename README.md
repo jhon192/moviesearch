@@ -1,4 +1,3 @@
-## Capture
 ![](./Capture.png)
 ### Installation
 ```sh
